@@ -1,3 +1,4 @@
+/* create custom font-size properties in the root element */
 :root {
     --color-primary: #d73953;
     --color-black: #090909;

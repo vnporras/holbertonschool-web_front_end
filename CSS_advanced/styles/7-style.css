@@ -1,3 +1,5 @@
+/* Add Open Sans as the first choice font for font-family-base and
+add Raleway as the first choice font for font-family-title, with the previous fonts shifted down accordingly */
 :root {
     --color-primary: #d73953;
     --color-black: #090909;
